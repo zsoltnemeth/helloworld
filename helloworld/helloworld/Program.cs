@@ -12,7 +12,7 @@ namespace helloworld
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World");
-            Thread.Sleep(3000);
+            Thread.Sleep(4000);
         }
     }
 }
