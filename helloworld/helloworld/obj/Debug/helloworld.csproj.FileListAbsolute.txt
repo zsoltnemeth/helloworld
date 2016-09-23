@@ -1,1 +1,2 @@
 c:\users\everex platform\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.exe.config
+C:\Development\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
