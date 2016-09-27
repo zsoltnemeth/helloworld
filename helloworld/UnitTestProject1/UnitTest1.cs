@@ -10,7 +10,7 @@ namespace UnitTestProject1
         public void TestMethod1()
         {
             int i = 1;
-            Assert.AreEqual(i, 1);
+            Assert.AreEqual(i, 1111);
         }
     }
 }
